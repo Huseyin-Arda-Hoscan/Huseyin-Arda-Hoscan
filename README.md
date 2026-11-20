@@ -30,3 +30,6 @@ My certificates (BTK Akademi, USOM, METU Bilgeİş, Udemy): [Certificates-Portfo
 ## 🎯 Currently
 - Looking for cybersecurity roles
 - Practicing in hands-on lab environments
+
+## 📫 Contact
+[arda29604@gmail.com](mailto:arda29604@gmail.com)
